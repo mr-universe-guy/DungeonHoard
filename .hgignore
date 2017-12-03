@@ -1,0 +1,17 @@
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+wip/**
+dist/**
+build/**
+*.blend
+*.obj
+*.png
+*.j3o
+*.j3odata
+*.mtl
+*.tga
+*.avi
+*.kra
